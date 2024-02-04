@@ -1,0 +1,18 @@
+algorithm: QAQS_ssimv2
+
+thread: 1
+confidence_threshold: 0.25
+
+solver: gurobi
+A1: 0.4
+A2: 0.3
+A3: 0.3
+linear_threshold: 0.3
+gaussian_sigma: 0.5
+resize: 100
+color:
+  rgb
+  # rgb, gray, hsv, lab
+
+gurobi_thread: 2
+gurobi_timeout: 60

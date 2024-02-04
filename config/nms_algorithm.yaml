@@ -1,0 +1,6 @@
+algorithm: NMS_Algorithm
+
+thread: 1
+confidence_threshold: 0.25
+
+iou_threshold: 0.3

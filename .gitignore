@@ -1,0 +1,7 @@
+*.ipynb
+result
+storage/token.json
+
+venv
+src/*/__pycache__
+src/cProfile

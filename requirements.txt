@@ -1,0 +1,16 @@
+POT
+pyyaml
+pycocotools
+torch
+torchvision
+ultralytics
+cityscapesscripts
+imagehash
+
+# solver
+amplify
+gurobipy
+
+# evaluator
+git+https://github.com/bes-dev/mean_average_precision.git
+torchmetrics
